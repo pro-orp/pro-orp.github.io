@@ -24,7 +24,7 @@ Publications
 **Accpeted in 2024:**
 <br>
 
-* Fan L, Zhao Q, <b>Shi J<b>, et al. Learn to Simulate Finite Element Analysis via Mesh-based Graph Networks. In <i>Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CSCWD ’24)</i>. doi: [10.1109/CSCWD61410.2024.10580309](https://ieeexplore.ieee.org/document/10580309).
+* Fan L, Zhao Q, <b>Shi J</b>, et al. Learn to Simulate Finite Element Analysis via Mesh-based Graph Networks. In <i>Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CSCWD ’24)</i>. doi: [10.1109/CSCWD61410.2024.10580309](https://ieeexplore.ieee.org/document/10580309).
 
 **Accpeted in 2023:**
 <br>
